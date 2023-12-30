@@ -17,3 +17,5 @@ end
 group :development do
   gem "webrick"
 end
+update infrastructure metamodels
+add end note and performance source
